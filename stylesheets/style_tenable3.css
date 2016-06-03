@@ -649,7 +649,7 @@ button:focus {
   background-size: cover;
 }
 .dark-image-bg {
-  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/tenable/2016_TWP_Washington.jpg);
+  background: linear-gradient(rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0.75)), url(http://campbellhc.github.io/engagehireclix/images/tenable/2016_TWP_Washington.jpg.jpg);
   background-position: center top;
   background-size: cover;
 }
@@ -1819,7 +1819,7 @@ button:focus {
 }
 /******************** APP HOME 3 ********************/
 .app-home-3 {
-  padding: 150px 0 200px;
+  padding: 100px 0 100px;
 }
 .app-home-3 .logo-home {
   margin-bottom: 80px;
