@@ -1890,6 +1890,32 @@ button:focus {
 .event-home-1 .sub-heading {
   margin-bottom: 70px;
 }
+/******************** EVENT HOME Munich ********************/
+.event-home-munich {
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.event-home-munich.image-bg {
+  background: url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable_munich.jpg) no-repeat center top;
+  background-size: cover;
+}
+.event-home-munich.dark-image-bg {
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(http://campbellhc.github.io/engagehireclix/images/tenable/tenable_munich.jpg) no-repeat center top;
+  background-size: cover;
+}
+.event-home-munich .logo-home {
+  margin-bottom: 75px;
+}
+.event-home-munich .heading-pre-suf {
+  margin-bottom: 15px;
+  color: #fff;
+}
+.event-home-munich .heading-text {
+  margin-bottom: 20px;
+}
+.event-home-munich .sub-heading {
+  margin-bottom: 70px;
+}
 /******************** EVENT HOME 2 ********************/
 .event-home-2 {
   padding-top: 200px;
