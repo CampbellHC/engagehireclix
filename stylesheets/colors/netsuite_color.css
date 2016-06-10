@@ -61,7 +61,7 @@ a {
 /******************** NAVBAR STYLE ********************/
 .navbar-nemo .navbar-nav > li > a:hover,
 .navbar-nemo .navbar-nav > li > a:focus {
-  color: #009DDC;
+  color: #000000;
   background-color: transparent;
 }
 .navbar-nemo .navbar-nav > .active > a {
