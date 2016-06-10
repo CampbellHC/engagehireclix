@@ -1471,7 +1471,7 @@ button:focus {
 |----------------------------------------------------------------------------
 */
 .navbar-nemo {
-  background-color: #fff;
+  background-color: #000000;
   border-color: #efefef;
   transition: all 0.4s;
 }
